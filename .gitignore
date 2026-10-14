@@ -1,0 +1,13 @@
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.tensorflow/
+.runtime/
+outputs/*
+!outputs/.gitkeep
+samples/content/*
+!samples/content/.gitkeep
+samples/style/*
+!samples/style/.gitkeep
+
